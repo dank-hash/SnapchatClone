@@ -5,13 +5,13 @@
   with:
 
     # Project path
-    project-path: SnapchatClone/
+    project-path: SnapchatClone/SnapchatClone
     # For example, iOS Distribution
     code-signing-identity: iOS Distribution
     # Team id
     team-id: 
     # Workspace path
-    workspace-path: # optional, default is 
+    workspace-path: SnapchatClone/
     # Choose app-store, ad-hoc, package, enterprise, development, or developer-id
     export-method: # optional, default is app-store
     # For example, Debug, Release
